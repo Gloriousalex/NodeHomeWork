@@ -1,0 +1,10 @@
+Count ow symbols: 12
+Count of words: 2
+Symbols 
+Letter h counts 1 times 
+Letter e counts 1 times 
+Letter l counts 3 times 
+Letter o counts 2 times 
+Letter w counts 1 times 
+Letter r counts 1 times 
+Letter d counts 1 times 
